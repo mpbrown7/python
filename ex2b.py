@@ -10,3 +10,5 @@ print "I could have code like this." # and the comment after is ignored
 print "This will run."
 
 print "Let's do some other stuff so we can test git."
+
+print "Adding more stuff"
